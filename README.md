@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/03-branding/logo/logo-primary.png" alt="Логотип проекта" width="200"/>
+  <img src="docs/03-branding/logo/logo-favicon.ico" alt="Логотип проекта" width="200"/>
 </p>
 
 <h1 align="center">🏰 CloudWars — Minecraft Towny+ Сервер</h1>
