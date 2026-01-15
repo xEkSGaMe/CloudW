@@ -1,23 +1,33 @@
 <p align="center">
-  <img src="docs\03-branding\logo/logo-favicon.ico" alt="Логотип проекта" width="200"/>
+  <img src="docs/03-branding/logo/logo-primary.png" alt="Логотип проекта" width="200"/>
 </p>
 
-<h1 align="center">🏰 <CloudWars> — Minecraft Towny+ Сервер</h1>
+<h1 align="center">🏰 CloudWars — Minecraft Towny+ Сервер</h1>
 <h3 align="center">Современный сервер на 1.21.4 с уникальными механиками войн, строительства и экономики</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Версия_0.0.0-FF6B35?style=flat&logoColor=white&labelColor=FF6B35&color=FFE8E0" alt="Версия"/>
-  <img src="https://img.shields.io/badge/⚡_В_разработке-00BCD4?style=flat&logoColor=white&labelColor=00BCD4&color=E0F7FA" alt="Статус"/>
-  <img src="https://img.shields.io/badge/🎮_Minecraft_1.21.4-4CAF50?style=flat&logoColor=white&labelColor=4CAF50&color=E8F5E9" alt="Minecraft"/>
-  <img src="https://img.shields.io/badge/📜_MIT-673AB7?style=flat&logoColor=white&labelColor=673AB7&color=EDE7F6" alt="Лицензия"/>
-  <img src="https://img.shields.io/badge/👥_Набор_открыт!-FF4081?style=flat&logoColor=white&labelColor=FF4081&color=FCE4EC" alt="Набор"/>
+  <a href="docs/01-about/changelog.md">
+    <img src="https://img.shields.io/badge/🚀_Версия_0.0.0-FF6B35?style=flat&logoColor=white&labelColor=FF6B35&color=FFE8E0" alt="Версия"/>
+  </a>
+  <a href="#текущий-прогресс-проекта">
+    <img src="https://img.shields.io/badge/⚡_В_разработке-00BCD4?style=flat&logoColor=white&labelColor=00BCD4&color=E0F7FA" alt="Статус"/>
+  </a>
+  <a href="https://www.minecraft.net">
+    <img src="https://img.shields.io/badge/🎮_Minecraft_1.21.4-4CAF50?style=flat&logoColor=white&labelColor=4CAF50&color=E8F5E9" alt="Minecraft"/>
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/📜_MIT-673AB7?style=flat&logoColor=white&labelColor=673AB7&color=EDE7F6" alt="Лицензия"/>
+  </a>
+  <a href="#набор-команды-проекта">
+    <img src="https://img.shields.io/badge/👥_Набор_открыт!-FF4081?style=flat&logoColor=white&labelColor=FF4081&color=FCE4EC" alt="Набор"/>
+  </a>
 </p>
 
 ---
 
 ## 📌 О проекте
 
-**<CloudWars>** — это амбициозный проект Minecraft-сервера в стиле **Towny** с глубокой кастомизацией и самописными плагинами, добавляющими новые слои геймплея:
+**CloudWars** — это амбициозный проект Minecraft-сервера в стиле **Towny** с глубокой кастомизацией и самописными плагинами, добавляющими новые слои геймплея:
 
 - ⚔️ **Динамические войны** между городами и альянсами с тактической составляющей
 - 🏛️ **Расширенная система строительства и управления** с уникальными зданиями
@@ -29,7 +39,7 @@
 
 ---
 
-## 📊 Текущий прогресс проекта
+<h2 id="текущий-прогресс-проекта">📊 Текущий прогресс проекта</h2>
 
 ### 🎯 Этап: Активная разработка ядра (Alpha 0.1.0)
 
@@ -51,7 +61,7 @@
 
 ---
 
-## 👥 Набор команды проекта
+<h2 id="набор-команды-проекта">👥 Набор команды проекта</h2>
 
 Проект находится на стадии активного формирования команды. Мы ищем талантливых людей, которые хотят создать масштабный игровой проект с нуля.
 
