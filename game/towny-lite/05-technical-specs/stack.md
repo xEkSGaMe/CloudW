@@ -150,7 +150,7 @@ Purpur 1.21.4
 | ParrotGlue | Попугаи на плече |
 | CustomMaps | Кастомные карты |
 | DualHorse | Два игрока на лошади |
-| BreweryX | Алкогольная система |
+| BreweryX | Напитки |
 | ShulkerBackpacks | Шалкер-рюкзаки |
 | ClickTPA | ТП по клику |
 | AdvancedAutoSmelt | Автоплавка |
